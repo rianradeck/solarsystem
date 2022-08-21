@@ -1,4 +1,4 @@
-# Three.js Starter
+# Based on Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
